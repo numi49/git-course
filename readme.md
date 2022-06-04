@@ -1,4 +1,4 @@
-# git and githad
+# git and github
 
 
 gfjfyjfyfffyfyf
